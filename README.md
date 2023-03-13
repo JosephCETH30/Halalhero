@@ -1,4 +1,8 @@
 # HalalHero.id
+
+![Halalhero Thumbnail](https://pyosephhh.netlify.app/img/Halalherothumb.png)
+
+
 Website ini Dibuat Sebagai Platform untuk Menyediakan Kemudahan untuk UMKM Dalam Membuat Sertifikat Halal, Credit ThemeWagon.
 
 This repository contains the source code for the Halal Hero website. Halal Hero is a platform that helps Muslims find halal food and other halal-certified products in their area.
