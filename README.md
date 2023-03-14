@@ -18,7 +18,7 @@ This repository contains the source code for the Halal Hero website. Halal Hero 
 ## Getting Started
 To get started with this project, simply clone this repository to your local machine and open the index.html file in your web browser.
 
-<code class="!whitespace-pre hljs language-bash">git <span class="hljs-built_in">clone</span> https://github.com/your-username/halalhero.git </code>
+<code class="!whitespace-pre hljs language-bash">git <span class="hljs-built_in">clone</span> https://github.com/JosephCETH30/halalhero.git </code>
 <code class="!whitespace-pre hljs language-bash"><span class="hljs-built_in">cd</span> halalhero </code>
 
 
